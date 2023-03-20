@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## DISCLAIMER
+
+I do not own the rights or am affiliated with Netflix. I also do not own the rights or am afifiliated with any movies enlisted in my database for this project. All credit goes to Code with Antonio for the project implementation (https://www.youtube.com/watch?v=mqUN4N2q4qY)
+
 ## Getting Started
 
 First, run the development server:
