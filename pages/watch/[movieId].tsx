@@ -3,7 +3,7 @@ import useMovie from "@/hooks/useMovie";
 import { useRouter } from "next/router";
 import { AiOutlineArrowLeft } from "react-icons/ai";
 
-const watch = () => {
+const Watch = () => {
     const router = useRouter();
     const { movieId } = router.query;
 
@@ -112,4 +112,4 @@ const watch = () => {
     )
 }
 
-export default watch;
+export default Watch;
