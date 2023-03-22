@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## DISCLAIMER
 
-I do not own the rights or am affiliated with Netflix. I also do not own the rights or am afifiliated with any movies enlisted in my database for this project. All credit goes to Code with Antonio for the project implementation (https://www.youtube.com/watch?v=mqUN4N2q4qY)
+I am not attempting to impersonate Netflix. This is simply a project for me to get familiar with developer tools. I do not own the rights or am affiliated with Netflix. I also do not own the rights or am afifiliated with any movies enlisted in my database for this project. All credit goes to Code with Antonio for the project implementation (https://www.youtube.com/watch?v=mqUN4N2q4qY)
 
 ## Getting Started
 
